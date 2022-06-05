@@ -1,0 +1,2 @@
+# SMS-Sender-application_python
+This is an SMS sending application that allow to send message to any phone number from all over the World. The app is build by configuration with twilio API service. The python program is basically integrated with twilio service that assigns a virtual communication port number and a phone number to contact with a person you want to . We can send SMS, MMS , voice calls and much more.
